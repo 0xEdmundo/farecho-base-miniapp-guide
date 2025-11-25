@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "YOUR_HEADER_HERE",
+    "payload": "YOUR_PAYLOAD_HERE",
+    "signature": "YOUR_SIGNATURE_HERE"
+  },
+  "baseBuilder": {
+    "ownerAddress": "0xd15b7af51bba85292f73255633b993c036ea2de3"
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "Farecho",
+    "homeUrl": "https://swing-bark-290.app.ohara.ai",
+    "iconUrl": "https://swing-bark-290.app.ohara.ai/icon.png",
+    "splashImageUrl": "https://swing-bark-290.app.ohara.ai/splash.png",
+    "splashBackgroundColor": "#000000",
+    "subtitle": "Farcaster interaction map",
+    "description": "Visualizes a user’s Farcaster interaction map.",
+    "primaryCategory": "social",
+    "tags": ["farcaster", "miniapp", "analytics", "baseapp"],
+    "screenshotUrls": [
+      "https://swing-bark-290.app.ohara.ai/screenshot-1.png"
+    ],
+    "heroImageUrl": "https://swing-bark-290.app.ohara.ai/og.png",
+    "ogTitle": "Farecho",
+    "ogDescription": "Your Farcaster interaction map.",
+    "ogImageUrl": "https://swing-bark-290.app.ohara.ai/og.png",
+    "noindex": false
+  }
+}
